@@ -1,4 +1,0 @@
-model_checkpoint_path: "F:/python/Test/MNIST/model\\model2.ckpt-2001"
-all_model_checkpoint_paths: "F:/python/Test/MNIST/model\\model2.ckpt-1"
-all_model_checkpoint_paths: "F:/python/Test/MNIST/model\\model2.ckpt-1001"
-all_model_checkpoint_paths: "F:/python/Test/MNIST/model\\model2.ckpt-2001"
